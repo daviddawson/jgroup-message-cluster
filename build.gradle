@@ -1,0 +1,10 @@
+apply plugin: "groovy"
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compile 'org.codehaus.groovy:groovy-all:2.1.8'
+    compile 'org.jgroups:jgroups:4.0.1.Final'
+}

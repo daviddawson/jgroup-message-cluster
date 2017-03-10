@@ -1,0 +1,6 @@
+# Example JGroups messaging cluster
+
+Fire up a few instances of this, they will connect as a cluster and then begin to occasionally broadcast
+a message to each other.
+
+see JgroupsMessage for demo.
